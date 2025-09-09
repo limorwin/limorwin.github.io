@@ -5,4 +5,4 @@ title: "About"
 Hello! I'm Limor 
 Currently in Vancouver, starting MDS
 
-About this site
+
