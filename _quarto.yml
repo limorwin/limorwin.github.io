@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "limor12"
+  title: "limorwin"
   navbar:
     left:
       - href: index.qmd
